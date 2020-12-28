@@ -1,9 +1,6 @@
 from collections import OrderedDict
-
 from lxml import etree
-
 import pyusps.urlutil
-
 
 api_url = 'http://production.shippingapis.com/ShippingAPI.dll'
 address_max = 5
